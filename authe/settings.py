@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j01hri!#tit_iu)8-#o@@03g!&q3tj*hn&nf7^x9(dit#0so0v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://bankv2.onrender.com']
 
 
 # Application definition
